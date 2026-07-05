@@ -131,7 +131,7 @@ const translations = {
     testimonialsTitle: "Disukai pencinta hidup sehat dan home cook",
     testimonialsLead: "Pelanggan datang karena manfaatnya dan kembali karena rasa manis gurihnya.",
     reviewOne: "Rasanya manis gurih alami dan tidak menyengat. Saya makan satu siung hampir setiap pagi.",
-    reviewTwo: "Teksturnya lembut dan premium. Nasi goreng sederhana dan saus jadi jauh lebih kaya rasa.",
+    reviewTwo: "Teksturnya lembut dan premium. Black garlic memiliki rasa manis alami dengan sentuhan umami yang kaya, membuat hidangan sederhana menjadi jauh lebih lezat dan berkarakter..",
     reviewThree: "Produk lokal Surabaya yang terpercaya. Kemasan rapi, respons cepat, kualitas bagus.",
     aboutEyebrow: "Cerita kami",
     aboutTitle: "Lahir di Surabaya, dibuat dengan kesabaran",
