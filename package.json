@@ -2,13 +2,13 @@
   "name": "black-garlic-unti",
   "version": "1.0.0",
   "private": true,
-  "description": "Production-ready static website for Black Garlic Unti.",
+  "description": "Production-ready static website for Unti Black Garlic.",
   "scripts": {
     "dev": "python3 -m http.server 4173",
     "start": "python3 -m http.server 4173"
   },
   "keywords": [
-    "Black Garlic Unti",
+    "Unti Black Garlic",
     "Black Garlic Murah Surabaya",
     "Jual Black Garlic Indonesia",
     "Premium Black Garlic"

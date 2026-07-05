@@ -1,6 +1,6 @@
-# Black Garlic Unti Website
+# Unti Black Garlic Website
 
-Production-ready static website for **Black Garlic Unti**, a premium black garlic brand from Surabaya, Indonesia.
+Production-ready static website for **Unti Black Garlic**, a premium black garlic brand from Surabaya, Indonesia.
 
 ## Pages
 
